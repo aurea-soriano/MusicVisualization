@@ -1,0 +1,284 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package colors;
+
+import java.awt.Color;
+
+/**
+ *
+ * @author aurea
+ */
+public class Aurea10 {
+
+
+    public Color[] rgb;
+
+    public Aurea10() {
+        rgb = new Color[256];
+
+        rgb[  0] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  1] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  2] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  3] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  4] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  5] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  6] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  7] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  8] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[  9] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 10] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 11] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 12] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 13] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 14] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 15] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 16] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 17] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 18] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 19] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 20] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 21] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 22] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 23] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 24] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 25] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 26] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 27] = new Color(255.f / 255.f, 0.f / 255.f, 0.f / 255.f); //red
+        rgb[ 28] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 29] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 30] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 31] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 32] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 33] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 34] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 35] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 36] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 37] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 38] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 39] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 40] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 41] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 42] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 43] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 44] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 45] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 46] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 47] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 48] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 49] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 50] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 51] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 52] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 53] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 54] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 55] = new Color(255.f / 255.f, 127.f / 255.f, 0.f / 255.f); //yellow red
+        rgb[ 56] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        
+        rgb[ 57] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 58] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 59] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 60] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 61] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 62] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 63] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 64] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 65] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 66] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 67] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 68] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 69] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 70] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 71] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 72] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 73] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 74] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 75] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 76] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 77] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 78] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 79] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 80] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 81] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 82] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 83] = new Color(255.f / 255.f, 255.f / 255.f, 0.f / 255.f); // yellow
+        rgb[ 84] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        
+        rgb[ 85] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 86] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 87] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 88] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 89] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 90] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 91] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 92] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 93] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 94] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 95] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 96] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 97] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 98] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[ 99] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[100] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[101] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[102] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[103] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[104] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[105] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[106] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[107] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[108] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[109] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[110] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[111] = new Color(127.f / 255.f, 255.f / 255.f, 0.f / 255.f); //Green Yellow
+        rgb[112] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[113] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[114] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[115] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[116] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[117] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[118] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[119] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[120] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[121] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[122] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[123] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[124] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[125] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[126] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[127] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[128] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[129] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[130] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[131] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[132] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[133] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[134] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[135] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[136] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[137] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[138] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[139] = new Color(0.f / 255.f, 255.f / 255.f, 0.f / 255.f); //green
+        rgb[140] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[141] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[142] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[143] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[144] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[145] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[146] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[147] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[148] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[149] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[150] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[151] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[152] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[153] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[154] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[155] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[156] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[157] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[158] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[159] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[160] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[161] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[162] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[163] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[164] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[165] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[166] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[167] = new Color(0.f / 255.f, 255.f / 255.f, 127.f / 255.f); //blue green
+        rgb[168] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[169] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[170] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[171] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[172] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[173] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[174] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[175] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[176] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[177] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[178] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[179] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[180] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[181] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[182] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[183] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[184] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[185] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[186] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[187] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[188] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[189] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[190] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[191] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[192] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[193] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[194] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[195] = new Color(0.f / 255.f, 0.f / 255.f, 255.f / 255.f);//blue
+        rgb[196] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        
+        rgb[197] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[198] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[199] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[200] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[201] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[202] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[203] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[204] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[205] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[206] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[207] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[208] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[209] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[210] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[211] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[212] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[213] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[214] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[215] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[216] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[217] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[218] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[219] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[220] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[221] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[222] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[223] = new Color(127.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple blue
+        rgb[224] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        
+        rgb[225] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[226] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[227] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[228] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[229] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[230] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[231] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[232] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[233] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[234] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[235] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[236] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[237] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[238] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[239] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[240] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[241] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[242] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[243] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[244] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[245] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[246] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[247] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[248] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[249] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[250] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[251] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[252] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[253] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[254] = new Color(255.f / 255.f, 0.f / 255.f, 255.f / 255.f); //purple
+        rgb[255] = new Color(255.f / 255.f, 0.f / 255.f, 127.f / 255.f); //red purple
+     }
+}
+
+
